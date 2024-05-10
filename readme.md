@@ -10,6 +10,7 @@ b. pull operation
   ### git sub operations
   a. push staging
      - tracking
+     ##
      - commiting
   b. Conflict
      - resolved
