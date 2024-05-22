@@ -7,7 +7,7 @@
 ### git operations
 a. push operation
 b. pull operation
-  ### git sub operations
+  ### git sub-operations
   a. push staging
      - tracking
       ===> git add. 
